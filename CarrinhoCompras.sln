@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrinhoCompras", "CarrinhoCompras\CarrinhoCompras.csproj", "{A5C73BE4-1431-4F58-A6DB-B2E21462E801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarrinhoCompras.Tests", "CarrinhoCompras.Tests\CarrinhoCompras.Tests.csproj", "{04554B0F-DB10-4140-A454-62D53DFA2525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5C73BE4-1431-4F58-A6DB-B2E21462E801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C73BE4-1431-4F58-A6DB-B2E21462E801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C73BE4-1431-4F58-A6DB-B2E21462E801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C73BE4-1431-4F58-A6DB-B2E21462E801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04554B0F-DB10-4140-A454-62D53DFA2525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04554B0F-DB10-4140-A454-62D53DFA2525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04554B0F-DB10-4140-A454-62D53DFA2525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04554B0F-DB10-4140-A454-62D53DFA2525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C169F763-B462-4308-A767-E446F5CDA999}
+	EndGlobalSection
+EndGlobal
